@@ -1,0 +1,23 @@
+name: h1d022006_pemmob_uas_pos
+description: "Flutter UAS"
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.0-224.0.dev
+
+dependencies:
+  fl_chart: ^0.65.0
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+  http: ^1.2.2
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_lints: ^3.0.1
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
